@@ -1,3 +1,10 @@
+# My Projects!
+[Quinns' Guide to Online Anonymity](https://fortunef.github.io/Quinns-Guide-to-Online-Anonymity/)
+
+[Shitty Godot Project](https://github.com/fortunef/shitty-godot-project)
+
+[Testical 123](https://fortunef.github.io/Testical-123/)
+
 # Hi I'm Quinn
 I'm an Aspiring Programmer Game Dev and Cybersecurity Proffesional I've been programming ever since June of 2023 and interested in technology since August 2020.
 # Why I started programming?
